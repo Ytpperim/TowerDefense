@@ -6,7 +6,8 @@
     "children": [
         "fe4d54f0-47a3-4d13-a6de-c4e409f6359f",
         "8dda4112-dc42-40dd-8814-082d42017ee2",
-        "be16acdd-cc9a-44ce-a300-c6693fd981d2"
+        "be16acdd-cc9a-44ce-a300-c6693fd981d2",
+        "4a93ea0e-6658-4c87-b42f-61b2daeb664b"
     ],
     "filterType": "GMObject",
     "folderName": "TowerDragables",
